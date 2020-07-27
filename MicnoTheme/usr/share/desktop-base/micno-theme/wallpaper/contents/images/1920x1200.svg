@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920" height="1200" version="1.1" viewBox="0 0 508 317.5" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <filter id="filter948-7-2" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(0,0,0)" flood-opacity=".49804" result="flood"/>
+   <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur in="composite1" result="blur" stdDeviation="3"/>
+   <feOffset dx="6" dy="6" result="offset"/>
+   <feComposite in="SourceGraphic" in2="offset" result="composite2"/>
+  </filter>
+ </defs>
+ <path d="m0 0h508v317.5h-508z" fill="#241c1c" stroke-width=".83818"/>
+ <g fill="#483737" stroke-width="1.054">
+  <path transform="matrix(.99979 0 0 1 -.014559 -.0021448)" d="m0 317.5 95.25-103.07h150.96l0.0681-0.0424-0.0388 0.0424h0.13219l-5.5978 0.19004-89.958 102.88z" filter="url(#filter948-7-2)"/>
+  <path transform="matrix(.99979 0 0 1 -.014559 -.0021448)" d="m-52.823 0.042488 0.03873 0.042294h-0.13218l0.30617 0.19005 196.2 214.3h148.93l0.0681 0.0424-0.0388-0.0424h0.13218l-0.30605-0.19004-196.2-214.3h-148.93z" filter="url(#filter948-7-2)"/>
+  <path transform="matrix(.99979 0 0 1 -.014559 -.0021448)" d="m389.2 317.5 95.25-103.07h150.96l0.0681-0.0424-0.0388 0.0424h0.13219l-5.5978 0.19004-89.958 102.88z" filter="url(#filter948-7-2)"/>
+ </g>
+ <g stroke-width="1.054">
+  <path transform="matrix(.99979 0 0 1 -.014559 -.0021448)" d="m246.06 317.5 95.25-103.07h150.96l0.0681-0.0424-0.0388 0.0424h0.13219l-5.5978 0.19004-89.958 102.88z" fill="#500" filter="url(#filter948-7-2)"/>
+  <path transform="matrix(.99979 0 0 1 -.014559 -.0021448)" d="m219.83 1.7998e-4 0.0387 0.042294h-0.26423l0.43822 0.19005 195.35 214.38 149.78-0.0848 0.0681 0.0424-0.0388-0.0424h0.13218l-1.7714 0.0848-195.79-214.58h-147.87z" fill="#500" filter="url(#filter948-7-2)"/>
+  <path transform="matrix(.99979 0 0 1 -.014559 -.0021448)" d="m329.01 6e-5 0.0387 0.042294h-0.26423l0.43822 0.19005 195.35 214.38 149.78-0.0848 0.0681 0.0424-0.0388-0.0424h0.13218l-1.7714 0.0848-195.79-214.58h-147.87z" fill="#3f3131" filter="url(#filter948-7-2)"/>
+ </g>
+</svg>

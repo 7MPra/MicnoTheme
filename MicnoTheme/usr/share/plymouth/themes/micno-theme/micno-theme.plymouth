@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Micno-Theme-Plymouth
+Description=This is a Plymouth theme with a MicnoLinux animation.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/micno-theme
+ScriptFile=/usr/share/plymouth/themes/micno-theme/micno-theme.script

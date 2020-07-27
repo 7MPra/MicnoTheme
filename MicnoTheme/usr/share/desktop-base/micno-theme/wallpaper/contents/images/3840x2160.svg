@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3840" height="2160" version="1.1" viewBox="0 0 1016 571.5" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <filter id="filter948-7-2" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(0,0,0)" flood-opacity=".49804" result="flood"/>
+   <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur in="composite1" result="blur" stdDeviation="3"/>
+   <feOffset dx="6" dy="6" result="offset"/>
+   <feComposite in="SourceGraphic" in2="offset" result="composite2"/>
+  </filter>
+ </defs>
+ <path d="m0 0h1016v571.5h-1016z" fill="#241c1c" stroke-width="1.5903"/>
+ <g fill="#483737" stroke-width="1.9634">
+  <path d="m49.092 571.5 183.62-185.53h291.01l0.13127-0.0763-0.0747 0.0763h0.25482l-10.791 0.34208-173.42 185.18z" filter="url(#filter948-7-2)"/>
+  <path d="m-52.736 0.07645 0.07466 0.07619h-0.25481l0.59021 0.34209 378.22 385.75h287.1l0.13128 0.0763-0.0747-0.0763h0.25481l-0.59008-0.34208-378.22-385.75h-287.1z" filter="url(#filter948-7-2)"/>
+  <path d="m799.37 571.5 183.62-185.53h291.01l0.1313-0.0763-0.074 0.0763h0.2548l-10.791 0.34208-173.42 185.18z" filter="url(#filter948-7-2)"/>
+ </g>
+ <g stroke-width="1.9634">
+  <path d="m523.43 571.5 183.62-185.53h291.01l0.13136-0.0763-0.0756 0.0763h0.25485l-10.791 0.34208-173.42 185.18z" fill="#500" filter="url(#filter948-7-2)"/>
+  <path d="m472.87 2.7997e-4 0.0747 0.07619h-0.50936l0.84475 0.34209 376.58 385.89 288.74-0.15258 0.1313 0.0763-0.075-0.0763h0.2548l-3.4149 0.15258-377.43-386.25h-285.05z" fill="#500" filter="url(#filter948-7-2)"/>
+  <path d="m683.34 6e-5 0.0747 0.07619h-0.50937l0.84478 0.34209 376.58 385.89 288.74-0.15258 0.1313 0.0763-0.075-0.0763h0.2548l-3.4149 0.15258-377.43-386.25h-285.05z" fill="#3f3131" filter="url(#filter948-7-2)"/>
+ </g>
+</svg>

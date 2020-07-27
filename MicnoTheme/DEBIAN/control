@@ -1,0 +1,9 @@
+Package: micno-theme
+Version: 0.1.0
+Architecture: all
+Maintainer: TMP_tenpura <tmptenpura@gmail.com>
+Depends: bash, xfce4
+Section: utils
+Priority: optional
+Description: MicnoLinux用のテーマ
+

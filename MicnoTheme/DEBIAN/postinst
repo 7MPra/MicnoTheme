@@ -1,0 +1,4 @@
+update-alternatives --install /usr/share/desktop-base/active-theme desktop-theme /usr/share/desktop-base/micno-theme 100
+plymouth-set-default-theme micno-theme
+plymouth-set-default-theme micno-theme -R
+update-initramfs -u -k all

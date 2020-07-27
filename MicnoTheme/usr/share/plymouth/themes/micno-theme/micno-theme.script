@@ -1,0 +1,21 @@
+Window.SetBackgroundTopColor (0, 0, 0);
+Window.SetBackgroundBottomColor (0, 0, 0);
+
+for (i = 0; i < 100; i++)
+  image[i] = Image("progress-" + i + ".png");
+sprite = Sprite();
+
+
+sprite.SetX(Window.GetWidth() / 2 - image[0].GetWidth() / 2);
+sprite.SetY(Window.GetHeight() / 2 - image[0].GetHeight() / 2);
+
+progress = 0;
+
+fun refresh_callback ()
+  {
+    sprite.SetImage(image[progress % 100]);
+    progress++;
+  }
+  
+Plymouth.SetRefreshFunction (refresh_callback);
+
