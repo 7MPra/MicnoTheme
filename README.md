@@ -1,2 +1,2 @@
 # Micno-Theme
-これは、MicnoLinux向けのDesktopテーマです。
+これは、MicnoLinux向けのDesktop&Plymouth用テーマです。
